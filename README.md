@@ -1,2 +1,2 @@
-# clases-python-basico
-En este repositorio iré agregando clases para aprender a programar en Python
+# Apuntes de python para principiantes
+En este repositorio iré agregando apuntes para aprender a programar en Python
